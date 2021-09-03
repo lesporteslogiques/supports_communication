@@ -29,4 +29,4 @@ Imprimer avec les paramètres suivants :
 * bord court
 * ajuster selon la zone imprimable
 
-![exemples flyers](./assets/exemples_flyers.png)
+![exemples flyers](./assets/exemple_flyers.png)
