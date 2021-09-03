@@ -28,3 +28,5 @@ Imprimer avec les paramètres suivants :
 * paysage
 * bord court
 * ajuster selon la zone imprimable
+
+![exemples flyers](./assets/exemples_flyers.png)
