@@ -1,0 +1,5 @@
+paramètres d'impression
+
+paysage
+bord court
+ajuster selon la zone imprimable
